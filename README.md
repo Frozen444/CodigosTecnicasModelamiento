@@ -1,5 +1,9 @@
 # Modelo SEIR-SI para el Dengue
-Códigos realizados para el proyecto final del curso de Técnicas de Modelamiento. 
+Códigos realizados para el proyecto final del curso de Técnicas de Modelamiento.
+
+# Integrantes
+- Garcia Galarza, Carla Viviana (20140093)
+- Tirado Monsalve, Jean Paul (19140110)
 
 Este repositorio contiene tres códigos Python relacionados con la modelización matemática de la dinámica del dengue, considerando tanto a la población humana como a los mosquitos. Los modelos utilizados están basados en el enfoque SEIR (Susceptible, Expuesto, Infectado, Recuperado) extendido para humanos y un modelo similar para los mosquitos. Los códigos están completamente comentados para facilitar su comprensión y análisis.
 
